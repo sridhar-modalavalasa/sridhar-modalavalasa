@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts](https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts)
 
-- 💬 Ask me about **Skilled Cloud & DevOps Engineer with 1.9 years of experience and extensive hands on exposure in CI/CD, IAC & Release Engineering in AWS Cloud Infrastructure.**
-
 - 📫 How to reach me **srdihar02101998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,20 +18,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center"> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" height="60" />
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="60" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="60" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="60" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="60" />  
-<img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="AWS" height="60" />           
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
+<img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="AWS" height="50" />           
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50" /> 
 </div>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridhar-modalavalasa&show_icons=true&locale=en&layout=compact" alt="sridhar-modalavalasa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar-modalavalasa&" alt="sridhar-modalavalasa" /></p>
