@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sridhar Modalavalasa</h1>
 <h3 align="center">A passionate DevOps Engineer with AWS Cloud from India</h3>
 
-- 🌱 I’m currently learning **Virtualization, Containerization,Orchestration, Infrastructure as a Code, Continuous Integration, Continuous Deployment,Continuous Delivery,Version Control System**
+- 🌱 I’m currently learning **Virtualization, Containerization, Orchestration, Infrastructure as a Code, Continuous Integration, Continuous Deployment, Continuous Delivery, Version Control System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sridhar-modalavalasa](https://github.com/sridhar-modalavalasa)
 
 - 📝 I regularly write articles on [https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts](https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts)
-
+- 💬 Ask me about **Linux, Docker, Kubernetes, Git, Jenkins, Terraform, AWS Cloud, Elasticsearch, Logstash, Kibana, Prometheus**
 - 📫 How to reach me **srdihar02101998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -32,5 +32,3 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50" /> 
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridhar-modalavalasa&show_icons=true&locale=en&layout=compact" alt="sridhar-modalavalasa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridhar-modalavalasa&" alt="sridhar-modalavalasa" /></p>
