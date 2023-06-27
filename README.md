@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sridhar-modalavalasa](https://github.com/sridhar-modalavalasa)
 
 - 📝 I regularly write articles on [https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts](https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts)
-- 💬 Ask me about **Linux, Docker, Kubernetes, Git, Jenkins, Ansible Terraform, AWS Cloud, Elasticsearch, Logstash, Kibana, Prometheus**
+- 💬 Ask me about **Linux, Docker, Kubernetes, Git, Jenkins, Ansible,Terraform, AWS Cloud, Elasticsearch, Logstash, Kibana, Prometheus**
 - 📫 How to reach me **srdihar02101998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
