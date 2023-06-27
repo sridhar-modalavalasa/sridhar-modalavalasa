@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sridhar-modalavalasa](https://github.com/sridhar-modalavalasa)
 
 - 📝 I regularly write articles on [https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts](https://hashnode.com/6476bdc6bdd34abc7cb10f03/dashboard/posts)
-- 💬 Ask me about **Linux, Docker, Kubernetes, Git, Jenkins, Terraform, AWS Cloud, Elasticsearch, Logstash, Kibana, Prometheus**
+- 💬 Ask me about **Linux, Docker, Kubernetes, Git, Jenkins, Ansible Terraform, AWS Cloud, Elasticsearch, Logstash, Kibana, Prometheus**
 - 📫 How to reach me **srdihar02101998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +24,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
 <img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="AWS" height="50" />           
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
