@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sridhar Modalavalasa</h1>
 <h3 align="center">A passionate DevOps Engineer with AWS Cloud from India</h3>
 
-- 🌱 I’m currently learning **Virtualization, Containerization, Orchestration, Infrastructure as a Code, Continuous Integration, Continuous Deployment, Continuous Delivery, Version Control System**
+- 🌱 I’m currently learning **Virtualization, Containerization, Orchestration, Infrastructure as a Code, Configuration Management, Continuous Integration, Continuous Deployment, Continuous Delivery, Version Control System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sridhar-modalavalasa](https://github.com/sridhar-modalavalasa)
 
